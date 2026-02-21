@@ -1,3 +1,3 @@
 # Personal Website
 
-Personal website for personal documentation. 
+Online documentation. 
